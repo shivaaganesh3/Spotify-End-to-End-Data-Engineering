@@ -29,7 +29,7 @@ This implementation demonstrates a cloud-native ETL pipeline that processes Spot
 - **Incremental Loading**: S3 partitioning by date/hour for efficient querying
 - **Serverless Transformation**: AWS Glue ETL jobs for data normalization
 - **Interactive Querying**: Amazon Athena SQL interface for analytics
-- **CI/CD Pipeline**: Infrastructure-as-Code using AWS SAM
+
 
 ## Technologies Used
 **Cloud Services**:
